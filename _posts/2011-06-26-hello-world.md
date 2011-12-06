@@ -6,5 +6,5 @@ title: Hello world
 {{ page.title }}
 ================
 
-This is a classical hello world blog post.
+Testing editing from directly github.
 
