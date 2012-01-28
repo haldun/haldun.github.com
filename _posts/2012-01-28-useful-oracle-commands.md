@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Useful Oracle Commands
+title: Useful Oracle Queries
 ---
 
 {{ page.title }}
