@@ -22,7 +22,7 @@ alter session set current_schema = new_schema;
 
 ```
 select table_name from user_tables;
-````
+```
 
 ### Dropping all tables
 
